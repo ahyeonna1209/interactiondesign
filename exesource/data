@@ -1,7 +1,2 @@
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
 
-
-"This is the folder where video files are located"
+# This is the folder where video files are located
